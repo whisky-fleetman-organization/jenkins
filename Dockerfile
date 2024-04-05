@@ -1,4 +1,4 @@
-from jenkins/jenkins:2.46.3-alpine
+from jenkins/jenkins:2.441-alpine-jdk17
 USER root
 # Pipeline
 
